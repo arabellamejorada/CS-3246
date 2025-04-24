@@ -1,4 +1,4 @@
-# CS-3246
+## CS-3246
 
 Machine Learning 1
 Activity 1
